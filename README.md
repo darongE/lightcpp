@@ -12,4 +12,4 @@ Not Many notion..
 
  - chap 1.
  - chap 2. C++ 함수와 네임스페이스 
-   * [C++ 함수와 네임스페이스](http://darongyi77.tistory.com/600" target="_blank)
+   * [C++ 함수와 네임스페이스](http://darongyi77.tistory.com/600 target="_blank")
