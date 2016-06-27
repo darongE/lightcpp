@@ -5,12 +5,13 @@ Not Many notion..
 
 
 ## Why I make ?
-I forgot CPP many times.  
-I want to summarize CPP.
-Wide CPP, learner can be give up easily.
-
+ I forgot CPP many times.  
+ Just remind C++. 
 
 ## contents
 
- - exercise
- - summary
+ - chap 1.
+ - chap 2. C++ 함수와 네임스페이스 
+   * [Change from C to C++](http://darongyi77.tistory.com/600)  
+      
+ 
