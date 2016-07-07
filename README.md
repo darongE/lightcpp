@@ -1,7 +1,6 @@
 # lightcpp
 
 Light CPP note for learner..
-Not Many notion..
 
 
 ## Why I make ?
@@ -10,6 +9,6 @@ Not Many notion..
 
 ## contents
 
- - chap 1.
+ - chap 1. C와는 다른 C++
  - chap 2. C++ 함수와 네임스페이스 
-   * [C++ 함수와 네임스페이스](http://darongyi77.tistory.com/600 target="_blank")
+ 
