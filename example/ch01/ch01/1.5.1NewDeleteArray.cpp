@@ -17,3 +17,16 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	return 0;
 }
+
+
+/*Ãâ·Â°ª
+  arr[0] = 10
+  arr[1] = 20
+  arr[2] = 30
+  arr[3] = 40
+  arr[4] = 50
+
+
+
+
+*/
