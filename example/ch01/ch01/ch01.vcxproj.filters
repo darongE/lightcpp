@@ -29,13 +29,40 @@
     <ClCompile Include="stdafx.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ch01.cpp">
+    <ClCompile Include="SaySth.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CoutString.cpp">
+    <ClCompile Include="1.6.1ReferenceType.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="CoutSample.cpp">
+    <ClCompile Include="1.4.2AutoSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.6.1CallByReference.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.6.1ReferenceSwap.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.5.1NewDeleteSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.5.1NewDeleteArray.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3.1CoutSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3.1CoutString.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.3.2CinString.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="RvalueSample.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.7RangeBasedfor.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
