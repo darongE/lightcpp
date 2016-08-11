@@ -5,24 +5,9 @@ using namespace std;
 
 
 /*
-   int aList[5] = { 10, 20, 30, 40, 50};
+   int aList[5] = { 20, 30, 50, 10, 40};
    오름차순으로 정렬한 후 ,결과 출력하기 <for문 사용>
 */
-
-
-//void Swap(int &a, int &b)
-//{
-//	int nTmp(a);
-//	a = b;
-//	b = nTmp;
-//}
-// Bubble sort 
-
-// 
-
-#if !defined(ARRAY_SIZE)
-#define ARRAY_SIZE(x) (sizeof((x)) / sizeof((x)[0]))
-#endif
 
 
 void SwapNum(int* pList, int nCount)
@@ -57,8 +42,8 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	cout << endl;
 
-
 	SwapNum(aList, nSize);
+
 	cout << "오름 차순 출력" << endl;
 
 	for (auto n : aList)
