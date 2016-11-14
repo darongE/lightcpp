@@ -3,17 +3,17 @@
 
 namespace TEST
 {
-	int g_nData = 100;
-	void TestFunc(void)
+	int g_Data = 100;
+	void CallFunc(void)
 	{
-		std::cout << "TEST::TestFunc()" << std::endl;
+		std::cout << "TEST::CallFunc()" << std::endl;
 	}
 }
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	TEST::TestFunc();
-	std::cout << TEST::g_nData << std::endl;
+	TEST::CallFunc();
+	std::cout << TEST::g_Data << std::endl;
 
 	return 0;
 }
