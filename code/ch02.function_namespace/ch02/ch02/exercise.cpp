@@ -12,7 +12,6 @@ namespace TEST
 	void TestFunc(void)
 	{
 		Add(3, 4);
-
 	}
 
 	int Add(int a, int b)
